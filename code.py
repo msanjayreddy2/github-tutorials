@@ -1,0 +1,1 @@
+print("Have a delightful good Day")
